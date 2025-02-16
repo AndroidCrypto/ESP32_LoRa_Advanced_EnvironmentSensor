@@ -5,6 +5,6 @@ Transmitting sensor data (here a BME280 Environment Sensor) with LoRa over long 
 This is an accompanying repository for the article "Build a LoRa® Advanced Environment Sensor with a BME280 sensor and ESP32 development boards", available on medium.com here: 
 current versions
 
- is the transmitter
+Esp32_MultiDev_Sx12xx_Bme280_Advanced_Transmitter_v04 is the transmitter
 
- is the receiver
+Esp32_MultiDev_Sx12xx_Bme280_Advanced_Receiver_v04 is the receiver
